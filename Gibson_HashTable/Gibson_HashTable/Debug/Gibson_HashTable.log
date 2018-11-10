@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\denze_000\documents\visual studio 2015\projects\gibson_hashtable\gibson_hashtable\hashtable.h(98): error C2440: '=': cannot convert from 'const char [1]' to 'int'
+  c:\users\denze_000\documents\visual studio 2015\projects\gibson_hashtable\gibson_hashtable\hashtable.h(98): note: There is no context in which this conversion is possible
+  c:\users\denze_000\documents\visual studio 2015\projects\gibson_hashtable\gibson_hashtable\hashtable.h(88): note: while compiling class template member function 'int HashTable<int>::retrieve(std::string)'
+  c:\users\denze_000\documents\visual studio 2015\projects\gibson_hashtable\gibson_hashtable\main.cpp(27): note: see reference to function template instantiation 'int HashTable<int>::retrieve(std::string)' being compiled
+  c:\users\denze_000\documents\visual studio 2015\projects\gibson_hashtable\gibson_hashtable\main.cpp(20): note: see reference to class template instantiation 'HashTable<int>' being compiled
